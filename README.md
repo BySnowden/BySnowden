@@ -1,4 +1,4 @@
-# Hey there, I'm Snowden 👋 
+# Hey there, I'm Snowden 👋☃️
 
 **Software Engineering Student | Game & Web Development Enthusiast** Based in Dallas, TX 📍
 

@@ -19,6 +19,6 @@ I am a logic-driven developer with a passion for **Object-Oriented Programming**
 | **Exploring** | Gleam, Go, Swift |
 
 ### 🏗️ What I'm Building
-- **[TBD]**:
-- **[TBD]**:
+- **[TBD]**: Not Yet Built
+- **[TBD]**: Not Yet Built
 ---

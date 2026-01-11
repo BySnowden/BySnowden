@@ -15,10 +15,10 @@ I am a logic-driven developer with a passion for **Object-Oriented Programming**
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | Java, C#, C++, Python, TypeScript, JavaScript, HTML/CSS |
-| **Design & IDEs** | Figma, IntelliJ IDEA, Visual Studio Code, Zed |
+| **Design & IDEs** | Figma, IntelliJ IDEA, Visual Studio Code, Cursor, Zed |
 | **Exploring** | Gleam, Go, Swift |
 
 ### 🏗️ What I'm Building
-- **[TBD]**: Not Yet Built
+- **Obelisk**: Minecraft Modpack Manager
 - **[TBD]**: Not Yet Built
 ---
